@@ -6,7 +6,7 @@ and exciting pictures of space. Every day, a new stunning image of space is feat
 Users can switch between a dark and light theme, making it easy to enjoy the site day or night. Explore galaxies, nebulae, and other celestial objects, 
 and learn about the latest space discoveries and research. Space Pictures offers an out-of-this-world experience for anyone interested in space and astronomy.
 
-### <a href="" target="_blank">Go to the Space Pictures!</a>
+### <a href="https://stormpero.github.io/SpacePictures/" target="_blank">Go to the Space Pictures!</a>
 
 ---
 ## Technologies
