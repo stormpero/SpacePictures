@@ -9,7 +9,8 @@ and learn about the latest space discoveries and research. Space Pictures offers
 ### <a href="" target="_blank">Go to the Space Pictures!</a>
 
 ---
-## Technologies  
+## Technologies
+- Vite
 - React JS  
 - React Query
 - Material UI
